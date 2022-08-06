@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Task-application</string>
+    <string name="check_address">Billing addresss is same as shipping address</string>
+    <string name="gst">Do You Have GST Number?</string>
+    <string name="address">"Mall Road Chandigarh, Chandigarh\nChandigarh - 653136 "</string>
+</resources>
